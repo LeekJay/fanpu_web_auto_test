@@ -5,7 +5,7 @@
 [![Pytest](https://img.shields.io/badge/Pytest-8.3.5-red)](https://docs.pytest.org/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-> 本项目是一个基于Python的Web自动化测试框架，主要针对 [泛普软件 demo 网站](demo.fanpusoft.com) 的用户管理模块和借款申请模块进行自动化测试。
+> 本项目是一个基于Python的Web自动化测试框架，主要针对 [泛普软件 demo 网站](https://demo.fanpusoft.com) 的用户管理模块和借款申请模块进行自动化测试。
 
 ## ✨ 特性
 
