@@ -1,0 +1,12 @@
+playwright==1.51.0
+pytest==8.3.5
+pytest-html==4.1.1
+pytest-playwright==0.7.0
+pytest-xdist==3.6.1
+pytest-order==1.2.0
+allure-pytest==2.13.5
+requests==2.32.3
+python-dotenv==1.1.0
+Pillow==11.1.0
+assertpy==1.1
+faker==37.1.0
